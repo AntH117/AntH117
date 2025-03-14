@@ -17,3 +17,4 @@
 
 ## 💻 Smaller Projects
 - QR code generator
+- Airplane tracker
